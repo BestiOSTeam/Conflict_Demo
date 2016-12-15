@@ -29,6 +29,7 @@
 
     NSLog( @"hello world");
     self.view.frame = CGRectMake(0, 0, 200, 300);
+    self.view.frame = CGRectMake(0, 0, 600, 800);
 }
 
 @end
